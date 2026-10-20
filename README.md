@@ -7,7 +7,7 @@
 ![Logo](https://staticdelivery.nexusmods.com/mods/10271/images/headers/19_1791206030.jpg)
 
 
-# Kingdom Come Deliverance II - A mod compilaton
+# Kingdom Come Deliverance 2 - A mod compilation
 
 
 
