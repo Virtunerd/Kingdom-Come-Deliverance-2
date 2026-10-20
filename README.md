@@ -26,6 +26,8 @@
 ---
 - Last Known Player Position: Vanilla gives any searching AI (enemies, guards, etc.) a blind anchor around Henry of 0.5 m, but this mod cuts it off. Area searching is still active. It also gives Mutt, your dog, the ability to perform an undercover attack (no crime for the player) and attack unconscious NPCs, such as sleeping ones, from up to 40 meters away.
 ---
+- Lockbreaker: Stand in front of a door or a chest and kick it. This will break the lock, allowing you to open the door or chest. The “Pick Lock” HUD indicator must be displayed.
+--- 
 - Reaper: Wake up KO'd male or female NPCs, or have sex with KO'd women. There is a timeskip and audio, as well as a buff for Henry, but also an injured torso buff for the victim and a disarmed victim (no loot).
 ---
 - Slicer: is a real serial killer mod. You can slaughter/butcher killed NPCs to get their meat. Mouse movement changes the NPC model to bones, and bones are left on the ground. If you loot the bones, they disappear! This way, NPCs won't know that there was a corpse. You can cook the meat, sell it, or give Mutt some food.
@@ -36,7 +38,7 @@
 ---
 ---
 ## Mod-Infos
-- Just drag & drop mods: Wenzels_Power, Spartacus, Last Known Pl. Position, Incognito, Argus
+- Just drag & drop mods: Lockbreaker, Wenzels_Power, Spartacus, Last Known Pl. Position, Incognito, Argus
 - New button in vanilla situations: Reaper, Slicer, (Last Known Pl. Position only Mutt on ko´d npcs)
 - Dialog options: Landlord, Highwayman, Instigator
 - Items: Landlord, Slicer
@@ -50,7 +52,7 @@
   path-kcd2.. \Mods
 ```
     
-## Badges
+## Permission
 
 I created these mods. You have my permission to use them in KCD2 with any mod loader or by installing them manually.
 
