@@ -1,7 +1,7 @@
 
 Authors
 
-- [@Virtunerd](https://github.com/virtunerd)
+- [@Virtunerd]([https://www.nexusmods.com/profile/Virtunerd])
 
 
 ![Logo](https://staticdelivery.nexusmods.com/mods/10271/images/headers/19_1791206030.jpg)
