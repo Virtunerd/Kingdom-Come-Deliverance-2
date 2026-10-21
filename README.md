@@ -44,8 +44,8 @@ Questseries (upcomming manhunt)
 
 - [Reaper](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/reaper.zip/):
 Wake up KO'd male or female NPCs, or have sex with KO'd women. There is a timeskip and audio, as well as a buff for Henry, but also an injured torso buff for the victim and a disarmed victim (no loot).
-<p align="center"><img src="https://i.imgur.com/5vjDhWx.jpeg" width="40%" height="40%"/></p>
-
+<p align="center"><img src="https://i.imgur.com/5vjDhWx.jpeg" width="50%" height="50%"/></p>
+--- 
 
 - [Slicer](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/slicer.zip/): is a real serial killer mod. You can slaughter/butcher killed NPCs to get their meat. Mouse movement changes the NPC model to bones, and bones are left on the ground. If you loot the bones, they disappear! This way, NPCs won't know that there was a corpse. You can cook the meat, sell it, or give Mutt some food.
 ---
@@ -53,16 +53,16 @@ Wake up KO'd male or female NPCs, or have sex with KO'd women. There is a timesk
 - [Spartacus](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/spartacus.zip/):
 Kick NPCs very strongly and high with ragdoll away (it's a non-combat situation). The NPCs get a "torso injured" buff and low health.
 
-<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms2MmZzbTdqejdybGN0bGt3anFyZW15bXIxYWdpeml0MmJpNHAzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F6aHMEKSSNbgrN7S83/giphy.gif"/></p>
+<p align="center"><img src="https://i.imgur.com/4qhAjME.jpeg" width="60%" height="60%"/></p>
+
+Demo
 <p align="center"><img src="https://media.giphy.com/media/F6aHMEKSSNbgrN7S83/giphy.gif"/></p>
-<p align="center"><img src="https://i.imgur.com/4qhAjME.jpeg" width="50%" height="50%"/></p>
 
 --- 
 
 - [Wenzels Power](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wenzels_power.zip/): Set all visible perks (including modded ones) at your perk trees to active.
 
-
----
+--- 
 
 ## Mod-Infos
 - Just drag & drop mods: Lockbreaker, Wenzels_Power, Spartacus, Last Known Pl. Position, Incognito, Argus
