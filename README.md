@@ -46,10 +46,13 @@ Questseries (upcomming manhunt)
 Wake up KO'd male or female NPCs, or have sex with KO'd women. There is a timeskip and audio, as well as a buff for Henry, but also an injured torso buff for the victim and a disarmed victim (no loot).
 <p align="center"><img src="https://i.imgur.com/5vjDhWx.jpeg" width="50%" height="50%"/></p>
 
-<p align="center"><img src="https://media.giphy.com/media/0RMPhrt1JHDnRgc1AN/giphy.gif"/></p>
+<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY1aHN0NzEyMnVsdHFjZDA2eTRpcml1YzFuaDVtaGQwYTNpbXFsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0RMPhrt1JHDnRgc1AN/giphy.gif"/></p>
+
 
 - [Slicer](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/slicer.zip/): is a real serial killer mod. You can slaughter/butcher killed NPCs to get their meat. Mouse movement changes the NPC model to bones, and bones are left on the ground. If you loot the bones, they disappear! This way, NPCs won't know that there was a corpse. You can cook the meat, sell it, or give Mutt some food.
-<p align="center"><img src="https://media.giphy.com/media/FPcFnl4Ztw3ieOHysI/giphy.gif"/></p>
+
+
+<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBkYWhlZWQwMHJ3bGNqNmN2dXZjNDUyZHkzMDJqbGU4d3JqNHI3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPcFnl4Ztw3ieOHysI/giphy.gif"/></p>
 
 --- 
 - [Spartacus](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/spartacus_1.0.1.zip/):
@@ -72,8 +75,8 @@ A free kick (block + attack, unarmed, out of combat) sends people flying as a ra
 --- 
 
 ## Mod-Infos
-- ASI + Mod: Wholesale
-- Just drag & drop mods: Lockbreaker, Wenzels_Power, Spartacus, Last Known Pl. Position, Incognito, Argus
+- ASI + Mod: Wholesale, Spartacus
+- Just drag & drop mods: Lockbreaker, Wenzels_Power, Last Known Pl. Position, Incognito, Argus
 - New button in vanilla situations: Reaper, Slicer, (Last Known Pl. Position only Mutt on ko´d npcs)
 - Dialog options: Landlord, Highwayman, Instigator
 - Items: Landlord, Slicer
