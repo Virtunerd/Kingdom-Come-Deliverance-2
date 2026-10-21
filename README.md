@@ -1,7 +1,8 @@
+![Nexus](https://i.imgur.com/tegZRnH.jpeg)
 
 Authors
 
-- [Virtunerd - 170k downloads, 170+ mods](https://virtunerd.github.io)
+- [Virtunerd - 160k+ downloads, 170+ mods](https://virtunerd.github.io)
 - [@Nexusmods banned profile](https://www.nexusmods.com/profile/Virtunerd)
 
 
