@@ -16,7 +16,7 @@ Authors
 
 ### Mods - click to download
 
-- [Argus](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/argus.zip/): is an icon on the right side of the compass that indicates if someone is watching Henry.
+- [Argus](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/argus.zip/): is a simple mod, which implements an dot-icon in blue/orange on the right side of the compass and indicates if someone Henry is undetected/undercove, like in Skyrim.
 --- 
 
 - [Highwayman](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/highwayman.zip/): Rob any NPC through dialogue. Your charisma and other stats matter, too. An inventory window opens up, and items are not stolen afterwards. The victim will not remember your crime. 
