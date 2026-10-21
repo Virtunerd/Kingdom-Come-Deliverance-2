@@ -51,7 +51,7 @@ Wake up KO'd male or female NPCs, or have sex with KO'd women. There is a timesk
 
 --- 
 - [Spartacus](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/spartacus_1.0.1.zip/):
-Kick NPCs very strongly and high with ragdoll away (it's a non-combat situation). The NPCs get a "torso injured" buff and low health.
+A free kick (block + attack, unarmed, out of combat) sends people flying as a ragdoll. Afterwards they hold their stomach (injured torso) and are left with little health. Optional: Spartacus_ASI detects the hit by its sound.
 
 <p align="center"><img src="https://i.imgur.com/4qhAjME.jpeg" width="60%" height="60%"/></p>
 
