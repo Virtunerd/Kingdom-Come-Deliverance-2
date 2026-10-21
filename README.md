@@ -45,9 +45,11 @@ Questseries (upcomming manhunt)
 - [Reaper](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/reaper.zip/):
 Wake up KO'd male or female NPCs, or have sex with KO'd women. There is a timeskip and audio, as well as a buff for Henry, but also an injured torso buff for the victim and a disarmed victim (no loot).
 <p align="center"><img src="https://i.imgur.com/5vjDhWx.jpeg" width="50%" height="50%"/></p>
- 
+
+<p align="center"><img src="https://media.giphy.com/media/0RMPhrt1JHDnRgc1AN/giphy.gif"/></p>
 
 - [Slicer](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/slicer.zip/): is a real serial killer mod. You can slaughter/butcher killed NPCs to get their meat. Mouse movement changes the NPC model to bones, and bones are left on the ground. If you loot the bones, they disappear! This way, NPCs won't know that there was a corpse. You can cook the meat, sell it, or give Mutt some food.
+<p align="center"><img src="https://media.giphy.com/media/FPcFnl4Ztw3ieOHysI/giphy.gif"/></p>
 
 --- 
 - [Spartacus](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/spartacus_1.0.1.zip/):
