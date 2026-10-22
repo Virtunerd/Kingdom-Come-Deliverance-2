@@ -22,8 +22,8 @@ Authors
 - [Highwayman](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/highwayman.zip/): Rob any NPC through dialogue. Your charisma and other stats matter, too. An inventory window opens up, and items are not stolen afterwards. The victim will not remember your crime. 
 ---
 
-- Hush Money - The Coin Of Silence
-Questseries (upcomming manhunt)
+- [Hush Money - The Coin Of Silence](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/hushmoney.zip/):
+The Coin of Silence - a five-part quest line. Matej Havel in the Black Horse tavern in Kuttenberg hires Henry for five contract killings. Dialogue choices, sparing targets, three endings.
 <p align="center"><img src="https://i.imgur.com/ySw8u4M.jpeg" width="60%" height="60%"/></p>
  
 
