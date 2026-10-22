@@ -22,7 +22,7 @@ Authors
 - [Highwayman](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/highwayman.zip/): Rob any NPC through dialogue. Your charisma and other stats matter, too. An inventory window opens up, and items are not stolen afterwards. The victim will not remember your crime. 
 ---
 
-- [Hush Money - The Coin Of Silence](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/hushmoney.zip/):
+- [Hush Money](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/hushmoney.zip/):
 The Coin of Silence - a five-part quest line. Matej Havel in the Black Horse tavern in Kuttenberg hires Henry for five contract killings. Dialogue choices, sparing targets, three endings.
 <p align="center"><img src="https://i.imgur.com/ySw8u4M.jpeg" width="60%" height="60%"/></p>
  
@@ -75,6 +75,7 @@ Wake up KO'd male or female NPCs, or have sex with KO'd women. There is a timesk
 
 ## Mod-Infos
 - ASI + Mod: Wholesale, Spartacus
+- Soundframework: optional "hushmoney"
 - Just drag & drop mods: Lockbreaker, Wenzels_Power, Last Known Pl. Position, Incognito, Argus, Silenttakedown
 - New button in vanilla situations: Reaper, Slicer, (Last Known Pl. Position only Mutt on ko´d npcs)
 - Dialog options: Landlord, Highwayman, Instigator
