@@ -11,7 +11,7 @@ Authors
 
 ## Kingdom Come Deliverance 2 - A mod compilation
 
-
+--- 
 
 
 ### Mods - click to download
@@ -45,23 +45,19 @@ Questseries (upcomming manhunt)
 - Trigger! [Slicer](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/slicer.zip/): is a real serial killer mod. You can slaughter/butcher killed NPCs to get their meat. Mouse movement changes the NPC model to bones, and bones are left on the ground. If you loot the bones, they disappear! This way, NPCs won't know that there was a corpse. You can cook the meat, sell it, or give Mutt some food.
 
 
-<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBkYWhlZWQwMHJ3bGNqNmN2dXZjNDUyZHkzMDJqbGU4d3JqNHI3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPcFnl4Ztw3ieOHysI/giphy.gif"/></p>
+<img src="https://media.giphy.com/media/FPcFnl4Ztw3ieOHysI/giphy.gif"/>
 
 --- 
 - [Silent takedown](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/silenttakedown.zip/):
-Stealth kill and stealth ko will be silent, so no npc hear your hitmen profession skills.
+Stealth-kill and stealth-kockout will be silent. No NPC will hear your work. It works in any situation - like two NPCs are walking and you stealth kill the NPC behind the first one. Or NPCs sleep in a Tent next to each other etc.. 
 --- 
 
 - [Spartacus](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/spartacus_1.0.1.zip/):
 A free kick (block + attack, unarmed, out of combat) sends people flying as a ragdoll. Afterwards they hold their stomach (injured torso) and are left with little health. Optional: Spartacus_ASI detects the hit by its sound.
 
-<p align="center"><img src="https://i.imgur.com/4qhAjME.jpeg" width="60%" height="60%"/></p>
-
-
 <p align="center"><img src="https://media.giphy.com/media/F6aHMEKSSNbgrN7S83/giphy.gif"/></p>
 
----  
-
+--- 
 
 - [Wenzels Power](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wenzels_power.zip/): Set all visible perks (including modded ones) at your perk trees to active.
 
@@ -73,22 +69,20 @@ A free kick (block + attack, unarmed, out of combat) sends people flying as a ra
 
 - Trigger! [Reaper](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/reaper.zip/):
 Wake up KO'd male or female NPCs, or have sex with KO'd women. There is a timeskip and audio, as well as a buff for Henry, but also an injured torso buff for the victim and a disarmed victim (no loot).
-<p align="center"><img src="https://i.imgur.com/5vjDhWx.jpeg" width="50%" height="50%"/></p>
 
-<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY1aHN0NzEyMnVsdHFjZDA2eTRpcml1YzFuaDVtaGQwYTNpbXFsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0RMPhrt1JHDnRgc1AN/giphy.gif"/></p>
+<img src="https://media.giphy.com/media/0RMPhrt1JHDnRgc1AN/giphy.gif"/>
 
 
 ## Mod-Infos
 - ASI + Mod: Wholesale, Spartacus
-- Just drag & drop mods: Lockbreaker, Wenzels_Power, Last Known Pl. Position, Incognito, Argus
+- Just drag & drop mods: Lockbreaker, Wenzels_Power, Last Known Pl. Position, Incognito, Argus, Silenttakedown
 - New button in vanilla situations: Reaper, Slicer, (Last Known Pl. Position only Mutt on ko´d npcs)
 - Dialog options: Landlord, Highwayman, Instigator
 - Items: Landlord, Slicer
----
+
+
 ---
 ## Install
-
-
 
 ```bash
  path-kcd2.. \Mods
