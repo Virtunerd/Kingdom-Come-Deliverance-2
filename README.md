@@ -24,8 +24,7 @@ Authors
 
 - [Hush Money](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/hushmoney.zip/):
 The Coin of Silence - a five-part quest line. Matej Havel in the Black Horse tavern in Kuttenberg hires Henry for five contract killings. Dialogue choices, sparing targets, three endings.
-<p align="center"><img src="https://i.imgur.com/ySw8u4M.jpeg" width="60%" height="60%"/></p>
- 
+---  
 
 - [Incognito](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/incognito.zip/): is a Red Dead Redemption "bandana"-like mod that gives Henry access to crime actions when he puts his helmet visor down. No NPC recognizes Henry as long as the visor is down.
 --- 
@@ -42,12 +41,12 @@ The Coin of Silence - a five-part quest line. Matej Havel in the Black Horse tav
 - [Lockbreaker](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/lockbreaker.zip/): Stand in front of a door or a chest and kick it. This will break the lock, allowing you to open the door or chest. The “Pick Lock” HUD indicator must be displayed.
 --- 
 
-- Trigger! [Slicer](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/slicer.zip/): is a real serial killer mod. You can slaughter/butcher killed NPCs to get their meat. Mouse movement changes the NPC model to bones, and bones are left on the ground. If you loot the bones, they disappear! This way, NPCs won't know that there was a corpse. You can cook the meat, sell it, or give Mutt some food.
+- [Slicer](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/slicer.zip/): is a real serial killer mod. You can slaughter/butcher killed NPCs to get their meat. Mouse movement changes the NPC model to bones, and bones are left on the ground. If you loot the bones, they disappear! This way, NPCs won't know that there was a corpse. You can cook the meat, sell it, or give Mutt some food.
 
-
-<img src="https://media.giphy.com/media/FPcFnl4Ztw3ieOHysI/giphy.gif"/>
+<p align="center"><img src="https://media.giphy.com/media/FPcFnl4Ztw3ieOHysI/giphy.gif"/></p>
 
 --- 
+
 - [Silent takedown](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/silenttakedown.zip/):
 Stealth-kill and stealth-kockout will be silent. No NPC will hear your work. It works in any situation - like two NPCs are walking and you stealth kill the NPC behind the first one. Or NPCs sleep in a tent next to each other etc.. 
 --- 
@@ -60,19 +59,17 @@ A free kick (block + attack, unarmed, out of combat) sends people flying as a ra
 --- 
 
 - [Wenzels Power](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wenzels_power.zip/): Set all visible perks (including modded ones) at your perk trees to active.
-
 --- 
 
 - [Wholesale](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wholesale.zip/): Skip the quantity slider: when trading, hold E to add an item’s whole stack to the basket, or hold V to add every item in that category. At a chest or stash, hold V to move a whole category to the other side in one go, with no amount window. Info: Asi files must manually dropped in "Win64MasterMasterSteamPGO" next to the KCD2.exe. Mod as usual in mods.
-
 --- 
 
 - Trigger! [Reaper](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/reaper.zip/):
 Wake up KO'd male or female NPCs, or have sex with KO'd women. There is a timeskip and audio, as well as a buff for Henry, but also an injured torso buff for the victim and a disarmed victim (no loot).
 
-<img src="https://media.giphy.com/media/0RMPhrt1JHDnRgc1AN/giphy.gif"/>
+<p align="center"><img src="https://media.giphy.com/media/0RMPhrt1JHDnRgc1AN/giphy.gif"/></p>
 
-
+--- 
 ## Mod-Infos
 - ASI + Mod: Wholesale, Spartacus
 - Soundframework: optional "hushmoney"
@@ -81,13 +78,12 @@ Wake up KO'd male or female NPCs, or have sex with KO'd women. There is a timesk
 - Dialog options: Landlord, Highwayman, Instigator
 - Items: Landlord, Slicer
 
-
----
+--- 
 ## Install
 
 ```bash
  path-kcd2.. \Mods
- for ASI.. Bin\Win64MasterMasterSteamPGO
+ ASI.. Bin\Win64MasterMasterSteamPGO
 ```
     
 ## Permission
