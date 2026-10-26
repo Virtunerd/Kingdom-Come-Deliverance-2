@@ -15,12 +15,12 @@
 --- 
 
 - [Bone Broker - Medicus](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/bonebroker.zip/): Kane Walshire, a shady Englishman and former assistant to a medicus, waits outside Kuttenberg's eastern gate and buys human bones and skulls for groschen.  Side quest "Find the Mysterious Merchant" starts on its own in the Kuttenberg region (innkeepers also share the rumour).  Once you have met him, sell all your bones through his dialogue ([Sell all bones]): 75 groschen per bone, 200 per thighbone, 400 per skull. A merchant icon marks his spot on the map. Accepts the bone parts from the Slicer mod
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/kane map.jpg"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/kane groschen.jpg"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/kane map.jpg" width="600" height="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/kane groschen.jpg" width="600" height="300"/></p>
 
 - [House of Bardi - Bank Account](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/houseofbardi.zip/): Florentine bankers who broke with the Church to serve the people. Lorenzo Bardi stands outside the Italian Court in Kuttenberg, his nephew Niccolo in Troskowitz.  They buy gold, silver, chalices, crosses and jewellery, and keep your groschen. Open an account, get a bank letter, deposit and withdraw at either table. Both bankers are marked on the map. Settings in mod.cfg.
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/lorenzo map.jpg"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/house of.jpg"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/lorenzo map.jpg" width="700" height="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/house of.jpg" width="700" height="300"/></p>
 
 
 - [Highwayman](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/highwayman.zip/): Rob any NPC through dialogue. Your charisma and other stats matter, too. An inventory window opens up, and items are not stolen afterwards. The victim will not remember your crime. 
@@ -40,7 +40,7 @@ The Coin of Silence - a five-part quest line. Matej Havel in the Black Horse tav
 --- 
 
 - [Moneylender - Loanshark](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/moneylender.zip/): Henry becomes a moneylender. Lend 50 to 10,000 groschen to any NPC with interest and a due date. When the time is up, demand payment, threaten (most debtors pay out of fear) or send your thugs if a debtor cannot pay, you decide whether to grant a delay - after a threat it costs him dearly.  The thugs appear out of sight, beat the debtor unconscious with their fists and leave, without involving the crime system. A beaten debtor pays at once when reminded of them.  Every debtor carries a live map marker, the debt book (F11, close with F11 or Esc) lists all debtors, toggles markers and sets a waypoint to them (the waypoint needs MoneylenderNative.asi). Settings in mod.cfg.
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/loan shark.jpg"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/loan shark.jpg" width="600" height="400"/></p>
 
 - [Last Known Player Position](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/lastknownposition.zip/): Vanilla gives any searching AI (enemies, guards, etc.) a blind anchor around Henry of 0.5 m, but this mod cuts it off. Area searching is still active. It also gives Mutt, your dog, the ability to perform an undercover attack (no crime for the player) and attack unconscious NPCs, such as sleeping ones, from up to 40 meters away.
 --- 
