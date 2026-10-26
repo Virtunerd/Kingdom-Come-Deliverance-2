@@ -1,13 +1,8 @@
-![Nexus](https://i.imgur.com/tegZRnH.jpeg)
+<p align="center"><img src="https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/blob/main/heinrich.png" width="500" height="500"></p>
 
-Authors
-
+#### Author:
 - [Virtunerd - 160k+ downloads, 170+ mods](https://virtunerd.github.io)
-- [@Nexusmods banned profile](https://www.nexusmods.com/profile/Virtunerd)
-
-
-![Logo](https://staticdelivery.nexusmods.com/mods/10271/images/headers/19_1791206030.jpg)
-
+- [@Nexusmods: My banned profile](https://www.nexusmods.com/profile/Virtunerd)
 
 ## Kingdom Come Deliverance 2 - A mod compilation
 
@@ -92,3 +87,4 @@ You have my permission to use them in KCD2 with any mod loader or by installing 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+![Nexus](https://i.imgur.com/tegZRnH.jpeg)
