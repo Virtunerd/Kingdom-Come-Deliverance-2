@@ -69,10 +69,10 @@ A free kick (block + attack, unarmed, out of combat) sends people flying as a ra
 - [Silvertongue - Heartbroken to death](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Silvertongue.zip/): Manipulate any open-world NPC with a dramatic lie in Henry's own voice. The NPC withdraws to a bench, mourns with tears and grief-stricken words, then collapses and dies; important characters only pass out. Requires SoundFramework.
 --- 
 
-- [Wake Up](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wakeup.zip/): Keybind "H" wakes an unconscious human NPC within reach. Hooks the interaction list at runtime instead of replacing a vanilla script, so it works alongside Reaper and other mods.
+- [Wake Up](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wakeup.zip/): Keybind "H" wakes an unconscious human NPC within reach. (Wakes up ko´d NPCs) Hooks the interaction list at runtime instead of replacing a vanilla script, so it works alongside other mods.
 --- 
 
-- [Wenzels Power](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wenzels_power.zip/): Set all visible perks (including modded ones) at your perk trees to active.
+- [Wenzels Power](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wenzels_power.zip/): Sets all visible perks (including modded ones) at your perk trees to active.
 --- 
 
 - [Wholesale](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wholesale.zip/): Skip the quantity slider: when trading, hold E to add an item’s whole stack to the basket, or hold V to add every item in that category. At a chest or stash, hold V to move a whole category to the other side in one go, with no amount window. Info: Asi files must manually dropped in "Win64MasterMasterSteamPGO" next to the KCD2.exe. Mod as usual in mods.
@@ -81,8 +81,8 @@ A free kick (block + attack, unarmed, out of combat) sends people flying as a ra
 ### BANNED MOD: only here exclusive
 
 - Trigger! [Reaper](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/reaper.zip/) or
-- [Reaper accurate sfx with vanilla sounds and no interruption](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/reaper_1.0.1_CUSTOM_SOUNDFX.zip/):
-Wake up KO'd male or female NPCs, or have sex with KO'd women. There is a timeskip and audio, as well as a buff for Henry, but also an injured torso buff for the victim and a disarmed victim (no loot).
+- [Reaper accurate shocking sfx and no time-wheel interruption - soundframework required](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/reaper_1.0.1_CUSTOM_SOUNDFX.zip/):
+Have sex with KO'd women. There is a timeskip and audio, a buff for Henry, but also an injured torso buff for the victim plus all uneqipped victim afterwards. (no loot)
 
 <p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/reaper_gif.gif"/></p>
 
