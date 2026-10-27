@@ -2,9 +2,11 @@
 
 #### Author:
 - [Virtunerd - 160k+ downloads, 170+ mods](https://virtunerd.github.io)
+
+For socialproof you can check my banned profile on nexusmods. All mods except my reaper are at the steam workshop as well.  
 - [@Nexusmods: My banned profile](https://www.nexusmods.com/profile/Virtunerd)
 
-## Kingdom Come Deliverance 2 - A mod compilation
+## Welcome on the dark side of modding. From landlord simulation mods over manipulating npcs to their suicide up to robbing and sexualized crimes in - Kingdom Come Deliverance 2 - A mod compilation
 
 --- 
 
@@ -80,9 +82,8 @@ A free kick (block + attack, unarmed, out of combat) sends people flying as a ra
 
 ### BANNED MOD: only here exclusive
 
-- Trigger! [Reaper](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/reaper.zip/) or
-- [Reaper accurate shocking sfx and no time-wheel interruption - soundframework required](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/reaper_1.0.1_CUSTOM_SOUNDFX.zip/):
-Have sex with KO'd women. There is a timeskip and audio, a buff for Henry, but also an injured torso buff for the victim plus all uneqipped victim afterwards. (no loot)
+- Trigger warning! [Reaper accurate shocking sfx and no time-wheel interruption - soundframework required](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/reaper_1.0.1_CUSTOM_SOUNDFX.zip/):
+Have sex with KO'd women. There is a timeskip and audio, a buff for Henry, but also an injured torso buff for the victim plus all armor/clothing are unequipped afterwards. (no loot for henry)
 
 <p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/reaper_gif.gif"/></p>
 
