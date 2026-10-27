@@ -8,11 +8,6 @@ For socialproof you can check my banned profile on nexusmods. All mods except my
 
 ## Welcome on the dark side of modding. From landlord simulation mods over contract killings and manipulating npcs to their suicide up-to robbing and sexualized crimes in - Kingdom Come Deliverance 2
 
-# A mod compilation
-
---- 
-
-
 ### Mods - click to download
 
 - [Argus](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/argus.zip/): is a simple mod, which implements a dot-icon in blue/orange on the right side of the compass and indicates if Henry is undetected/undercover, like in Skyrim.
@@ -23,8 +18,11 @@ For socialproof you can check my banned profile on nexusmods. All mods except my
 <p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/kane groschen.jpg" width="600" height="300"/></p>
 
 - [House of Bardi - Bank Account](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/houseofbardi.zip/): Florentine bankers who broke with the Church to serve the people. Lorenzo Bardi stands outside the Italian Court in Kuttenberg, his nephew Niccolo in Troskowitz.  They buy gold, silver, chalices, crosses and jewellery, and keep your groschen. Open an account, get a bank letter, deposit and withdraw at either table. Both bankers are marked on the map. Settings in mod.cfg.
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/lorenzo map.jpg" width="500" height="300"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/barditroskimap.jpg" width="500" height="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/lorenzo map.jpg" width="700" height="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/barditroskimap.jpg" width="700" height="300"/></p>
+
+--- 
+
 <p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/house of.jpg" width="700" height="300"/></p>
 <p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/bardi trosky.jpg" width="700" height="300"/></p>
 
