@@ -67,8 +67,9 @@ A free kick (block + attack, unarmed, out of combat) sends people flying as a ra
 --- 
 
 - [Silvertongue - Heartbroken to death](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Silvertongue.zip/): Manipulate any open-world NPC with a dramatic lie in Henry's own voice. The NPC withdraws to a bench, mourns with tears and grief-stricken words, then collapses and dies; important characters only pass out. Requires SoundFramework.
+--- 
 
-
+- [Wake Up](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wakeup.zip/): Keybind "H" wakes an unconscious human NPC within reach. Hooks the interaction list at runtime instead of replacing a vanilla script, so it works alongside Reaper and other mods.
 --- 
 
 - [Wenzels Power](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wenzels_power.zip/): Set all visible perks (including modded ones) at your perk trees to active.
