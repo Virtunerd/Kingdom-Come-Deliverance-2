@@ -11,6 +11,14 @@ For socialproof you can check my banned profile on nexusmods. All mods except my
 
 Latest:
 
+[Photo No Collision - Photomode: the camera no longer collides with objects](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/photonoclip.zip/)
+
+--- 
+
+[Athleticus - Doublejump - Grabs edges](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/athleticus.zip/)
+
+--- 
+
 [Offering - Share food drinks portion and watch them consume it](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/offering.zip/)
 
 --- 
