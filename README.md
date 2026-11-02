@@ -5,7 +5,7 @@
 For socialproof you can check my banned profile on nexusmods. All mods except my reaper are at the steam workshop as well.  
 - [@Nexusmods: My banned profile](https://www.nexusmods.com/profile/Virtunerd)
 
-## Welcome on the dark side of modding. From landlord simulation mods over contract killings and manipulating npcs to their suicide up-to robbing and sexualized crimes in - Kingdom Come Deliverance 2
+## Welcome in - Kingdom Come Deliverance 2
 
 ### Mods - click to download
 
@@ -138,4 +138,3 @@ You have my permission to use them in KCD2 with any mod loader or by installing 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-![Nexus](https://i.imgur.com/tegZRnH.jpeg)
