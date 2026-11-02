@@ -1,4 +1,3 @@
-<p align="center"><img src="https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/blob/main/heinrich.png" width="500" height="500"></p>
 
 #### Author:
 - [Virtunerd - 160k+ downloads, 170+ mods](https://virtunerd.github.io)
@@ -9,6 +8,34 @@ For socialproof you can check my banned profile on nexusmods. All mods except my
 ## Welcome on the dark side of modding. From landlord simulation mods over contract killings and manipulating npcs to their suicide up-to robbing and sexualized crimes in - Kingdom Come Deliverance 2
 
 ### Mods - click to download
+
+Latest:
+
+[Offering - Share food drinks portion and watch them consume it](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/offering.zip/)
+
+--- 
+
+[Horse Deed - Stable Pool](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/horsedeed_1.0.0.zip/)
+
+--- 
+
+[Bath Maid Choice - Your maid selector](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/bathmaidchoice.zip/)
+
+--- 
+
+[Bulk Forge - Transfer](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/bulkforge.zip/)
+
+--- 
+
+[Keep My Weapon - ASI](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/keepmyweapon.zip/)
+
+--- 
+
+[Herbharvest ASI - Radius for ALL herbs](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/herbharvest.zip/)
+
+--- 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - [Argus](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/argus.zip/): is a simple mod, which implements a dot-icon in blue/orange on the right side of the compass and indicates if Henry is undetected/undercover, like in Skyrim.
 --- 
