@@ -5,11 +5,13 @@
 For socialproof you can check my banned profile on nexusmods. All mods except my reaper are at the steam workshop as well.  
 - [@Nexusmods: My banned profile](https://www.nexusmods.com/profile/Virtunerd)
 
-## Welcome in - Kingdom Come Deliverance 2
-
 ### Mods - click to download
 
 Latest:
+
+[The Poisoner - Stack Effects](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/ThePoisoner.zip/)
+
+--- 
 
 [Iron Liver - No Skill - Cap - No Negative Phase](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/IronLiver.zip/)
 
