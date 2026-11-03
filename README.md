@@ -11,7 +11,11 @@ For socialproof you can check my banned profile on nexusmods. All mods except my
 
 Latest:
 
-[Photo No Collision - Photomode: the camera no longer collides with objects](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/photonoclip.zip/)
+[Iron Liver - No Skill - Cap - No Negative Phase](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/IronLiver.zip/)
+
+--- 
+
+[Photomode: No Collision - POV - Spy - the camera no longer collides with objects](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/photonoclip.zip/)
 
 --- 
 
