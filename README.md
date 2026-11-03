@@ -19,6 +19,10 @@ For social-proof you can check my banned profile on nexusmods. All mods except m
 
 Latest:
 
+[Survivalist - Craft Arrows And Bolts](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/survivalist.zip/)
+
+--- 
+
 [The Poisoner - Stack Effects](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/ThePoisoner.zip/)
 
 --- 
