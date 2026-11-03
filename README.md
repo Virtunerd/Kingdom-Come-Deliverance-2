@@ -2,8 +2,12 @@
 #### Author:
 - [Virtunerd - 160k+ downloads, 170+ mods](https://virtunerd.github.io)
 
-For socialproof you can check my banned profile on nexusmods. All mods except my reaper are at the steam workshop as well.  
+For social-proof you can check my banned profile on nexusmods. All mods except my reaper are at the steam workshop as well.  
 - [@Nexusmods: My banned profile](https://www.nexusmods.com/profile/Virtunerd)
+
+--- 
+
+<p align="left"><img src="https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/blob/main/steam.png" width="80" height="80"/></p>
 
 ### Mods - click to download
 
@@ -48,8 +52,6 @@ Latest:
 [Herbharvest ASI - Radius for ALL herbs](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/herbharvest.zip/)
 
 --- 
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - [Argus](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/argus.zip/): is a simple mod, which implements a dot-icon in blue/orange on the right side of the compass and indicates if Henry is undetected/undercover, like in Skyrim.
 --- 
