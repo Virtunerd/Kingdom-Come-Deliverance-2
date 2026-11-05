@@ -17,6 +17,10 @@ For social-proof you can check my banned profile on nexusmods. All mods except m
 
 Latest:
 
+[Immersive Timeskip - The World Moves On](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/ImmersiveTimeskip.zip/)
+
+--- 
+
 [Shouts - Turn Enemies - Battlecry Stops Witnesses](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Shouts.zip/)
 
 --- 
