@@ -11,13 +11,25 @@ For social-proof you can check my banned profile on nexusmods. All mods except m
 
 [Check the workshop](https://steamcommunity.com/profiles/76561198183169443/myworkshopfiles/?appid=1771300)
 
-
+Carrying_Body_Throw_Weapondraw
 
 --- 
 
 ### Mods - click to download
 
 Latest:
+
+[Carrying Body - Throw and Weapondraw](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Carrying_Body_Throw_Weapondraw.zip/)
+
+--- 
+
+[Door Jammer - No One gets in or out](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/doorjammer.zip/)
+
+--- 
+
+[Faces - Change one piece of armor out-of-sight to be undetected again like in Hitmen47](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Faces.zip/)
+
+--- 
 
 [Repair Kit Select All - QOL](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/RepairKitSelectAll.zip/)
 
