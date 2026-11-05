@@ -17,6 +17,10 @@ For social-proof you can check my banned profile on nexusmods. All mods except m
 
 Latest:
 
+[Shackles - Take Hostages](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/shackles.zip/)
+
+--- 
+
 [Carrying Body - Throw and Weapondraw](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Carrying_Body_Throw_Weapondraw.zip/)
 
 --- 
