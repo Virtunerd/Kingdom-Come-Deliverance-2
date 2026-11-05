@@ -5,13 +5,11 @@
 For social-proof you can check my banned profile on nexusmods. All mods except my reaper are at the steam workshop as well.  
 - [@Nexusmods: My banned profile](https://www.nexusmods.com/profile/Virtunerd)
 
---- 
 
 <p align="left"><img src="https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/blob/main/steam.png" width="80" height="80"/></p> 
 
 [Check the workshop](https://steamcommunity.com/profiles/76561198183169443/myworkshopfiles/?appid=1771300)
 
-Carrying_Body_Throw_Weapondraw
 
 --- 
 
