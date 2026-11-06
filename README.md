@@ -21,7 +21,7 @@ Latest:
 
 --- 
 
-[Framed - Plant - Report - Arrest](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Framed.zip/)
+[Framed - Guards Arrest NPCs For You - Dungeon](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Framed.zip/)
 
 --- 
 
