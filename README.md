@@ -17,7 +17,11 @@ For social-proof you can check my banned profile on nexusmods. All mods except m
 
 Latest:
 
-[Shadowmaker - Put out the lights](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Shadowmaker.zip/)
+[Framed - Plant - Report - Arrest](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Framed.zip/)
+
+--- 
+
+[Shadowmaker - Shoot-Throw holded-static Flames](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Shadowmaker.zip/)
 
 --- 
 
