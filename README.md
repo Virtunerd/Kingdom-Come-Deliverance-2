@@ -17,6 +17,10 @@ For social-proof you can check my banned profile on nexusmods. All mods except m
 
 Latest:
 
+[Area Hit Vials - Throwable Portion Schnaps Poison - Radial Menu Included](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/AreaHitVials.zip/)
+
+--- 
+
 [Framed - Plant - Report - Arrest](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Framed.zip/)
 
 --- 
