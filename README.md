@@ -17,6 +17,12 @@ For social-proof you can check my banned profile on nexusmods. All mods except m
 
 Latest:
 
+[Simple VRM - Radial Menu](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/VirtunerdRadial.zip/)
+
+[Steamworkshop description here](https://steamcommunity.com/sharedfiles/filedetails/?id=3835245525)
+
+--- 
+
 [Area Hit Vials - Throwable Portion Schnaps Poison - Radial Menu Included](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/AreaHitVials.zip/)
 
 --- 
@@ -179,14 +185,6 @@ Have sex with KO'd women. There is a timeskip and audio, a buff for Henry, but a
 
 <p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/reaper_gif.gif"/></p>
 
---- 
-## Mod-Infos
-- ASI + Mod: Wholesale, Spartacus, Moneylender
-- Soundframework: optional "hushmoney", Silvertongue
-- Just drag & drop mods: Lockbreaker, Wenzels_Power, Last Known Pl. Position, Incognito, Argus, Silenttakedown, House of Bardi, Bonebroker
-- New button in vanilla situations: Reaper, Slicer, (Last Known Pl. Position only Mutt on ko´d npcs)
-- Dialog options: Landlord, Highwayman, Instigator, Moneylender
-- Items: Landlord, Slicer, House of Bardi
 
 --- 
 ## Install
