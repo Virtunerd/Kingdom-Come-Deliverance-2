@@ -1,8 +1,8 @@
 # Mod-Index
 
-- [AreaHitVials](AreaHitVials/)
-- [argus](argus/)
-- [athleticus](athleticus/)
+- [AreaHitVials](Area Hit Vials/)
+- [argus](Argus/)
+- [athleticus](Athleticus/)
 - [bathmaidchoice](bathmaidchoice/)
 - [bonebroker](bonebroker/)
 - [bulkforge](bulkforge/)
