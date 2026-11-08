@@ -1,3 +1,5 @@
 # IronLiver
 
-Lade neue Versionen dieses Mods hier hoch, zum Beispiel `IronLiver-1.0.1.zip`. Behalte ältere Versionen bei und ergänze die Versionsnummer im Dateinamen.
+Lege ZIP-Versionen dieses Mods in diesem Ordner ab. Verwende das Format `IronLiver-<Version>.zip`; die Versionsnummer muss mit `mod.manifest` in der ZIP übereinstimmen.
+
+Beispiele: `IronLiver-1.0.0.zip`, `IronLiver-1.0.1.zip`, `IronLiver-1.0.2.zip`.

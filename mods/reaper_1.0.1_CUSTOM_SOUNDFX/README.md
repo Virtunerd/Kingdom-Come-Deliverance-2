@@ -1,3 +1,5 @@
 # reaper_1.0.1_CUSTOM_SOUNDFX
 
-Lade neue Versionen dieses Mods hier hoch, zum Beispiel `reaper_1.0.1_CUSTOM_SOUNDFX-1.0.1.zip`. Behalte ältere Versionen bei und ergänze die Versionsnummer im Dateinamen.
+Lege ZIP-Versionen dieses Mods in diesem Ordner ab. Verwende das Format `reaper_1.0.1_CUSTOM_SOUNDFX-<Version>.zip`; die Versionsnummer muss mit `mod.manifest` in der ZIP übereinstimmen.
+
+Beispiele: `reaper_1.0.1_CUSTOM_SOUNDFX-1.0.0.zip`, `reaper_1.0.1_CUSTOM_SOUNDFX-1.0.1.zip`, `reaper_1.0.1_CUSTOM_SOUNDFX-1.0.2.zip`.
