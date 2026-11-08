@@ -1,6 +1,4 @@
-# Mod-Ordner
-
-Hier sind die Unterordner für die Mods. In jedem Mod-Ordner findest du den Download-Link zum aktuellen Release und die Namensregel für zukünftige ZIP-Versionen.
+# Mod-Index
 
 - [AreaHitVials](AreaHitVials/)
 - [argus](argus/)
