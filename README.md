@@ -10,145 +10,53 @@ For social-proof you can check my banned profile on nexusmods. All mods except m
 
 [Check the workshop](https://steamcommunity.com/profiles/76561198183169443/myworkshopfiles/?appid=1771300)
 
-### MOD-INDEX
+### # Mod-Index
 
-- [AreaHitVials](mods/AreaHitVials/)
-- [argus](mods/argus/)
-- [athleticus](mods/athleticus/)
-- [bathmaidchoice](mods/bathmaidchoice/)
-- [bonebroker](mods/bonebroker/)
-- [bulkforge](mods/bulkforge/)
-- [Carrying_Body_Throw_Weapondraw](mods/Carrying_Body_Throw_Weapondraw/)
-- [doorjammer](mods/doorjammer/)
-- [Faces](mods/Faces/)
-- [Framed](mods/Framed/)
-- [herbharvest](mods/herbharvest/)
-- [highwayman](mods/highwayman/)
-- [horsedeed_1.0.0](mods/horsedeed_1.0.0/)
-- [houseofbardi](mods/houseofbardi/)
-- [hushmoney](mods/hushmoney/)
-- [ImmersiveTimeskip](mods/ImmersiveTimeskip/)
-- [incognito](mods/incognito/)
-- [instigator](mods/instigator/)
-- [IronLiver](mods/IronLiver/)
-- [keepmyweapon](mods/keepmyweapon/)
-- [landlord](mods/landlord/)
-- [lastknownposition](mods/lastknownposition/)
-- [lockbreaker](mods/lockbreaker/)
-- [moneylender](mods/moneylender/)
-- [offering](mods/offering/)
-- [photonoclip](mods/photonoclip/)
-- [reaper_1.0.1_CUSTOM_SOUNDFX](mods/reaper_1.0.1_CUSTOM_SOUNDFX/)
-- [RepairKitSelectAll](mods/RepairKitSelectAll/)
-- [shackles](mods/shackles/)
-- [Shadowmaker](mods/Shadowmaker/)
-- [Shouts](mods/Shouts/)
-- [silenttakedown](mods/silenttakedown/)
-- [Silvertongue](mods/Silvertongue/)
-- [slicer](mods/slicer/)
-- [Spartacus_1.0.1](mods/Spartacus_1.0.1/)
-- [survivalist](mods/survivalist/)
-- [ThePoisoner](mods/ThePoisoner/)
-- [VirtunerdRadial](mods/VirtunerdRadial/)
-- [wakeup](mods/wakeup/)
-- [wenzels_power](mods/wenzels_power/)
-- [wholesale](mods/wholesale/)
+- [AreaHitVials](AreaHitVials/)
+- [argus](argus/)
+- [athleticus](athleticus/)
+- [bathmaidchoice](bathmaidchoice/)
+- [bonebroker](bonebroker/)
+- [bulkforge](bulkforge/)
+- [Carrying_Body_Throw_Weapondraw](Carrying_Body_Throw_Weapondraw/)
+- [doorjammer](doorjammer/)
+- [Faces](Faces/)
+- [Framed](Framed/)
+- [herbharvest](herbharvest/)
+- [highwayman](highwayman/)
+- [horsedeed_1.0.0](horsedeed_1.0.0/)
+- [houseofbardi](houseofbardi/)
+- [hushmoney](hushmoney/)
+- [ImmersiveTimeskip](ImmersiveTimeskip/)
+- [incognito](incognito/)
+- [instigator](instigator/)
+- [IronLiver](IronLiver/)
+- [keepmyweapon](keepmyweapon/)
+- [landlord](landlord/)
+- [lastknownposition](lastknownposition/)
+- [lockbreaker](lockbreaker/)
+- [moneylender](moneylender/)
+- [offering](offering/)
+- [photonoclip](photonoclip/)
+- [reaper_1.0.1_CUSTOM_SOUNDFX](reaper_1.0.1_CUSTOM_SOUNDFX/)
+- [RepairKitSelectAll](RepairKitSelectAll/)
+- [shackles](shackles/)
+- [Shadowmaker](Shadowmaker/)
+- [Shouts](Shouts/)
+- [silenttakedown](silenttakedown/)
+- [Silvertongue](Silvertongue/)
+- [slicer](slicer/)
+- [Spartacus_1.0.1](Spartacus_1.0.1/)
+- [survivalist](survivalist/)
+- [ThePoisoner](ThePoisoner/)
+- [VirtunerdRadial](VirtunerdRadial/)
+- [wakeup](wakeup/)
+- [wenzels_power](wenzels_power/)
+- [wholesale](wholesale/)
 
---- 
-
-### Mods - click to download
-
-Latest:
-
-[Simple VRM - Radial Menu](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/VirtunerdRadial.zip/)
-
-[Steamworkshop description here](https://steamcommunity.com/sharedfiles/filedetails/?id=3835245525)
 
 --- 
 
-[Area Hit Vials - Throwable Portion Schnaps Poison - Radial Menu Included](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/AreaHitVials.zip/)
-
---- 
-
-[Framed - Guards Arrest NPCs For You - Dungeon](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Framed.zip/)
-
---- 
-
-[Shadowmaker - Shoot-Throw holded-static Flames](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Shadowmaker.zip/)
-
---- 
-
-[Immersive Timeskip - The World Moves On](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/ImmersiveTimeskip.zip/)
-
---- 
-
-[Shouts - Battlecry Stops Witnesses - Turn Enemies Into Allies](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Shouts.zip/)
-
---- 
-
-[Shackles - Take Hostages](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/shackles.zip/)
-
---- 
-
-[Carrying Body - Throw and Weapondraw](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Carrying_Body_Throw_Weapondraw.zip/)
-
---- 
-
-[Door Jammer - No One gets in or out](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/doorjammer.zip/)
-
---- 
-
-[Faces - Change one piece of armor out-of-sight to be undetected again like in Hitmen47](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Faces.zip/)
-
---- 
-
-[Repair Kit Select All - QOL](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/RepairKitSelectAll.zip/)
-
---- 
-
-[Survivalist - Craft Arrows And Bolts](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/survivalist.zip/)
-
---- 
-
-[The Poisoner - Stack Effects](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/ThePoisoner.zip/)
-
---- 
-
-[Iron Liver - No Skill - Cap - No Negative Phase](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/IronLiver.zip/)
-
---- 
-
-[Photomode: No Collision - POV - Spy - the camera no longer collides with objects](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/photonoclip.zip/)
-
---- 
-
-[Athleticus - Doublejump - Grabs edges](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/athleticus.zip/)
-
---- 
-
-[Offering - Share food drinks portion and watch them consume it](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/offering.zip/)
-
---- 
-
-[Horse Deed - Stable Pool](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/horsedeed_1.0.0.zip/)
-
---- 
-
-[Bath Maid Choice - Your maid selector](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/bathmaidchoice.zip/)
-
---- 
-
-[Bulk Forge - Transfer](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/bulkforge.zip/)
-
---- 
-
-[Keep My Weapon - ASI](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/keepmyweapon.zip/)
-
---- 
-
-[Herbharvest ASI - Radius for ALL herbs](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/herbharvest.zip/)
-
---- 
 
 - [Argus](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/argus.zip/): is a simple mod, which implements a dot-icon in blue/orange on the right side of the compass and indicates if Henry is undetected/undercover, like in Skyrim.
 --- 
@@ -157,14 +65,6 @@ Latest:
 <p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/assets/bone broker/kane map.jpg" width="600" height="300"/></p>
 <p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main//assets/bone broker/kane groschen.jpg" width="600" height="300"/></p>
 
-- [House of Bardi - Bank Account](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/houseofbardi.zip/): Florentine bankers who broke with the Church to serve the people. Lorenzo Bardi stands outside the Italian Court in Kuttenberg, his nephew Niccolo in Troskowitz.  They buy gold, silver, chalices, crosses and jewellery, and keep your groschen. Open an account, get a bank letter, deposit and withdraw at either table. Both bankers are marked on the map. Settings in mod.cfg.
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/assets/house of bardi/lorenzo map.jpg" width="700" height="300"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/assets/house of bardi/barditroskimap.jpg" width="700" height="300"/></p>
-
---- 
-
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/assets/house of bardi/house of.jpg" width="700" height="300"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/assets/house of bardi/bardi trosky.jpg" width="700" height="300"/></p>
 
 
 - [Highwayman](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/highwayman.zip/): Rob any NPC through dialogue. Your charisma and other stats matter, too. An inventory window opens up, and items are not stolen afterwards. The victim will not remember your crime. 
