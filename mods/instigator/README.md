@@ -1,9 +1,3 @@
 # instigator
 
-[Alle Versionen ansehen und herunterladen](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/tree/main/mods/instigator)
-
-Beschreibung: Instigator. Durch Dialoge kannst du anstreben, dass NPCs in einen Kampf mit anderen NPCs geraten; Kampfart und Ziel können ausgewählt werden.
-
-Lade jede neue ZIP-Version in diesen Ordner hoch. Verwende das Format `instigator_<Version>.zip`; die Versionsnummer muss mit `mod.manifest` in der ZIP übereinstimmen.
-
-Beispiele: `instigator_1.0.0.zip`, `instigator_1.0.1.zip`, `instigator_1.0.2.zip`.
+[Instigator](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/instigator.zip/): Through dialogue, you can say something like "I got something for you" to send any NPC into a fight with another NPC. You can select whether the fight is a fistfight or an armed fight to the death.

@@ -1,9 +1,4 @@
 # moneylender
 
-[Alle Versionen ansehen und herunterladen](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/tree/main/mods/moneylender)
-
-Beschreibung: Moneylender - Loanshark. Henry wird zum Geldverleiher: Geld an NPCs mit Zinsen und Fälligkeitsterminen; Debitoren werden auf einer Karte gekennzeichnet und können mit Drohungen oder späteren Strafzahlungen behandelt werden.
-
-Lade jede neue ZIP-Version in diesen Ordner hoch. Verwende das Format `moneylender_<Version>.zip`; die Versionsnummer muss mit `mod.manifest` in der ZIP übereinstimmen.
-
-Beispiele: `moneylender_1.0.0.zip`, `moneylender_1.0.1.zip`, `moneylender_1.0.2.zip`.
+[Moneylender - Loanshark](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/moneylender.zip/): Henry becomes a moneylender. Lend 50 to 10,000 groschen to any NPC with interest and a due date. When the time is up, demand payment, threaten (most debtors pay out of fear) or send your thugs if a debtor cannot pay, you decide whether to grant a delay - after a threat it costs him dearly.  The thugs appear out of sight, beat the debtor unconscious with their fists and leave, without involving the crime system. A beaten debtor pays at once when reminded of them.  Every debtor carries a live map marker, the debt book (F11, close with F11 or Esc) lists all debtors, toggles markers and sets a waypoint to them (the waypoint needs MoneylenderNative.asi). Settings in mod.cfg.
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/assets/money lender/loan shark.jpg" width="600" height="400"/></p>

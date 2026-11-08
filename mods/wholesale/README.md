@@ -1,9 +1,3 @@
 # wholesale
 
-[Alle Versionen ansehen und herunterladen](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/tree/main/mods/wholesale)
-
-Beschreibung: Wholesale. Überspringt den Mengen-Slider beim Handeln; mit E kannst du ganze Stacks schnell in den Warenkorb oder auf die andere Seite verschieben.
-
-Lade jede neue ZIP-Version in diesen Ordner hoch. Verwende das Format `wholesale_<Version>.zip`; die Versionsnummer muss mit `mod.manifest` in der ZIP übereinstimmen.
-
-Beispiele: `wholesale_1.0.0.zip`, `wholesale_1.0.1.zip`, `wholesale_1.0.2.zip`.
+[Wholesale](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wholesale.zip/): Skip the quantity slider: when trading, hold E to add an item’s whole stack to the basket, or hold V to add every item in that category. At a chest or stash, hold V to move a whole category to the other side in one go, with no amount window. Info: Asi files must manually dropped in "Win64MasterMasterSteamPGO" next to the KCD2.exe. Mod as usual in mods.

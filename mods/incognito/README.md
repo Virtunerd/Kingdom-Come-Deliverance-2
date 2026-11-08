@@ -1,9 +1,4 @@
 # incognito
 
-[Alle Versionen ansehen und herunterladen](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/tree/main/mods/incognito)
+[Incognito](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/incognito.zip/): is a Red Dead Redemption "bandana"-like mod that gives Henry access to crime actions when he puts his helmet visor down. No NPC recognizes Henry as long as the visor is down.
 
-Beschreibung: Incognito. Red Dead Redemption-artiger Bandana-/Tarnungs-Mechanismus, der Henry Zugang zu Verbrechen und Aktion ermöglicht, solange die Sichtlinie heruntergelassen ist.
-
-Lade jede neue ZIP-Version in diesen Ordner hoch. Verwende das Format `incognito_<Version>.zip`; die Versionsnummer muss mit `mod.manifest` in der ZIP übereinstimmen.
-
-Beispiele: `incognito_1.0.0.zip`, `incognito_1.0.1.zip`, `incognito_1.0.2.zip`.

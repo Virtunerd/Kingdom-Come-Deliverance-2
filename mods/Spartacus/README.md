@@ -1,9 +1,5 @@
 # Spartacus_1.0.1
 
-[Alle Versionen ansehen und herunterladen](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/tree/main/mods/Spartacus_1.0.1)
-
-Beschreibung: Spartacus. Freier Kick mit Block + Angriff, unbewaffnet und außer Kampf, lässt Gegner durch Ragdoll fliegen; optionales ASI erweitert den Effekt mit Sound- und Taktikfeatures.
-
-Lade jede neue ZIP-Version in diesen Ordner hoch. Verwende das Format `Spartacus_1.0.1_<Version>.zip`; die Versionsnummer muss mit `mod.manifest` in der ZIP übereinstimmen.
-
-Beispiele: `Spartacus_1.0.1_1.0.0.zip`, `Spartacus_1.0.1_1.0.1.zip`, `Spartacus_1.0.1_1.0.2.zip`.
+[Spartacus](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/spartacus_1.0.1.zip/):
+A free kick (block + attack, unarmed, out of combat) sends people flying as a ragdoll. Afterwards they hold their stomach (injured torso) and are left with little health. Optional: Spartacus_ASI detects the hit by its sound.
+<p align="center"><img src="https://media.giphy.com/media/F6aHMEKSSNbgrN7S83/giphy.gif"/></p>

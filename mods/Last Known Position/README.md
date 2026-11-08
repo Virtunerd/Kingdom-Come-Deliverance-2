@@ -1,9 +1,3 @@
 # lastknownposition
 
-[Alle Versionen ansehen und herunterladen](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/tree/main/mods/lastknownposition)
-
-Beschreibung: Last Known Player Position. Die Vanilla-Logik verankert Gegner bei der Suche an der letzten Position; dieser Mod behebt die blinde Ankerung und erhöht die Treffer- und Positionierfähigkeit.
-
-Lade jede neue ZIP-Version in diesen Ordner hoch. Verwende das Format `lastknownposition_<Version>.zip`; die Versionsnummer muss mit `mod.manifest` in der ZIP übereinstimmen.
-
-Beispiele: `lastknownposition_1.0.0.zip`, `lastknownposition_1.0.1.zip`, `lastknownposition_1.0.2.zip`.
+[Last Known Player Position](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/lastknownposition.zip/): Vanilla gives any searching AI (enemies, guards, etc.) a blind anchor around Henry of 0.5 m, but this mod cuts it off. Area searching is still active. It also gives Mutt, your dog, the ability to perform an undercover attack (no crime for the player) and attack unconscious NPCs, such as sleeping ones, from up to 40 meters away.
