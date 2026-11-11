@@ -65,4 +65,4 @@ For social-proof you can check my banned profile on nexusmods. All mods except m
     
 ## Permission
 
-You have my permission to use them in KCD2 with any mod loader or by installing them manually. I created all these mods. 
+You have my permission to use them in KCD2 with any mod loader or by installing them manually. I created all these mods. Do not re-upload or re-use my code.
