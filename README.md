@@ -3,7 +3,7 @@
 - [Virtunerd - 160k+ downloads, 170+ mods](https://virtunerd.github.io)
 
 For social-proof you can check my banned profile on nexusmods. All mods except my reaper are at the steam workshop as well.  
-- [@Nexusmods: My banned profile](https://www.nexusmods.com/profile/Virtunerd)
+- [@Nexusmods: My banned (because of the reaper mod) profile](https://www.nexusmods.com/profile/Virtunerd)
 
 
 <p align="left"><img src="https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/blob/main//Assets/steam/steam.png" width="80" height="80"/></p> 
