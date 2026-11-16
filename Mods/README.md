@@ -1,3 +1,20 @@
+
+<p align="left"><img src="https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/blob/main//Assets/steam/steam.png" width="80" height="80"/></p> 
+
+[Check the workshop](https://steamcommunity.com/profiles/76561198183169443/myworkshopfiles/?appid=1771300)
+
+--- 
+## Install
+
+```bash
+ Mods kcd2.. \Mods
+ ASI.. Bin\Win64MasterMasterSteamPGO
+```
+    
+## Permission
+
+You have my permission to use them in KCD2 with any mod loader or by installing them manually. I created all these mods. Do not re-upload or re-use my code.
+
 # Mod-Index
 
 - [Area Hit Vials](Area%20Hit%20Vials/)
@@ -43,3 +60,8 @@
 - [Wakeup](Wakeup/)
 - [Wenzels Power](Wenzels%20Power/)
 - [Wholesale](Wholesale/)
+
+
+<p align="left"><img src="https://staticdelivery.nexusmods.com/mods/10076/images/headers/1_1788362048.jpg"/></p>
+
+--- 
