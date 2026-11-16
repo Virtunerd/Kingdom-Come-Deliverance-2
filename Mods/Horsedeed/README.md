@@ -1,5 +1,7 @@
 # Horsedeed
 
+**Download:** [horsedeed_1.0.0.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/horsedeed_1.0.0.zip)
+
 Buy it from its owner, steal it and make it legally yours on the spot, keep every horse you own in your own stable, and sell the ones you no longer need. No more trips to the black-market horse dealer.
 
 ## Two new options on every horse

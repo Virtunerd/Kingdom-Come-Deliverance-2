@@ -1,5 +1,7 @@
 # Shackles
 
+**Download:** [shackles.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/shackles.zip)
+
 # Put rusty shackles on NPCs and keep them as prisoners. They sit down on the ground in the vanilla tied-up pose, drop their daily routine and stay where they are, even after saving and loading.
 
 Dev. in combination with my offering mod, so npcs could eat/drink and sit down again.

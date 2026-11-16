@@ -1,5 +1,7 @@
 # Area Hit Vials
 
+**Download:** [AreaHitVials.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/AreaHitVials.zip)
+
 # Throw your potions, poisons and spirits as vials. The vial shatters on impact and **everyone within the radius gets exactly what drinking it would do** - including poisons mixed in with The Poisoner. Nobody notices who threw it.
 
 ## How it works

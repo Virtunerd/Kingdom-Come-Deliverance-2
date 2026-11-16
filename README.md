@@ -24,6 +24,7 @@ For social-proof you can check my banned profile on nexusmods. All mods except m
 - [Carrying Body Throw Weapondraw](Mods/Carrying%20Body%20Throw%20Weapondraw/)
 - [Door Jammer](Mods/Door%20Jammer/)
 - [Faces](Mods/Faces/)
+- [Fingers](Mods/Fingers/)
 - [Framed](Mods/Framed/)
 - [Herb harvest](Mods/Herb%20harvest/)
 - [Highwayman](Mods/Highwayman/)

@@ -1,6 +1,6 @@
 # House Of Bardi
 
-[House of Bardi - Bank Account](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/houseofbardi.zip/)
+[House of Bardi - Bank Account](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/houseofbardi.zip)
 
 Florentine bankers who broke with the Church to serve the people. Lorenzo Bardi stands outside the Italian Court in Kuttenberg, his nephew Niccolo in Troskowitz.
 
@@ -15,10 +15,10 @@ They buy gold, silver, chalices, crosses and jewellery, and keep your groschen. 
 #WechselCfg.InterestRate = 8 -- interest in percent added to the bank balance every 7 days
 ```
 
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Assets/house of bardi/lorenzo map.jpg" width="700" height="300"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Assets/house of bardi/barditroskimap.jpg" width="700" height="300"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Assets/house of bardi/house of.jpg" width="700" height="300"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Assets/house of bardi/bardi trosky.jpg" width="700" height="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/House%20Of%20Bardi/lorenzo%20map.jpg" width="700" height="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/House%20Of%20Bardi/barditroskimap.jpg" width="700" height="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/House%20Of%20Bardi/house%20of.jpg" width="700" height="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/House%20Of%20Bardi/bardi%20trosky.jpg" width="700" height="300"/></p>
 
 ---
 

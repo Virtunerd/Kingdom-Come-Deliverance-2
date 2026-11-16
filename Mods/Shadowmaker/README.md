@@ -1,5 +1,7 @@
 # Shadowmaker
 
+**Download:** [Shadowmaker.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Shadowmaker.zip)
+
 # Put out the lights and make your own shadows. Candles, lamps, chandeliers, wall torches, hearth fires, and the torches and lanterns other people carry
 
 ## How to put a light out

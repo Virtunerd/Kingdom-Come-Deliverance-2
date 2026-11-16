@@ -1,5 +1,7 @@
 # Framed
 
+**Download:** [Framed.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Framed.zip)
+
 # Plant goods on people, report them to the guards and watch the law take its course. Every step uses vanilla animations, vanilla AI and the real dungeons of the world.
 
 ## How it works

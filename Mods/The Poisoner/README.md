@@ -1,5 +1,7 @@
 # The Poisoner
 
+**Download:** [ThePoisoner.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/ThePoisoner.zip)
+
 # Why settle for one poison when you can use three?
 
 In vanilla, every item carries only a single poison - applying a second one simply replaces the first. **The Poisoner** lets you stack up to **three poisons on one item**, one of each kind:

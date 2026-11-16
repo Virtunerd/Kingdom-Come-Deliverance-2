@@ -1,5 +1,7 @@
 # Immersive Timeskip
 
+**Download:** [ImmersiveTimeskip.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/ImmersiveTimeskip.zip)
+
 # Wait with the time wheel **without the black screen**. Watch the world move on while the hours pass.
 
 ## What it does

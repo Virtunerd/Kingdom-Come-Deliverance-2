@@ -1,5 +1,7 @@
 # Athleticus
 
+**Download:** [athleticus.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/athleticus.zip)
+
 Henry gets a double jump and pulls himself up onto high ledges.
 
 Press jump again in mid-air for a second jump. In the air, Henry grabs edges in front of him that are too high for the game's own vaults (rocks, walls, roofs) and climbs onto them, automatically when he faces the edge or with the jump key.

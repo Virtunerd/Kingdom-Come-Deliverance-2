@@ -1,5 +1,7 @@
 # Door Jammer
 
+**Download:** [doorjammer.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/doorjammer.zip)
+
 # Jam a door shut and keep everyone out. Or in.
 
 Walk up to any closed, unlocked door and press **V** to wedge it. A jammed door stays shut for every NPC: owners, guards, thieves and quest walkers can't open it, unlock it, lockpick it or slip through it. Press **V** at the door again to pull the wedge out.

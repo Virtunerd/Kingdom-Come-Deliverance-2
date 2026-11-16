@@ -1,5 +1,7 @@
 # Faces
 
+**Download:** [Faces.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Faces.zip)
+
 **New clothes, new man.**
 
 Committed a crime and the whole town is after you? Slip away, change your clothes where nobody can see you, and walk back in as a stranger. Witnesses and guards forget what you did there. No wanted status, no fine, no jail.

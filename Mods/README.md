@@ -9,6 +9,7 @@
 - [Carrying Body Throw Weapondraw](Carrying%20Body%20Throw%20Weapondraw/)
 - [Door Jammer](Door%20Jammer/)
 - [Faces](Faces/)
+- [Fingers](Fingers/)
 - [Framed](Framed/)
 - [Herb harvest](Herb%20harvest/)
 - [Highwayman](Highwayman/)

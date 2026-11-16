@@ -1,5 +1,7 @@
 # Shouts
 
+**Download:** [Shouts.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Shouts.zip)
+
 # The vanilla battle cry finally does something. Use it on frightened witnesses and they give up, use it in a brawl and your enemies turn on each other.
 
 
