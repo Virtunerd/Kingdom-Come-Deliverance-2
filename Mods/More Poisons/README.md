@@ -53,3 +53,10 @@ Buy both recipes from the **alchemists in Kuttenberg and Troskowitz**. Read them
 - **The Poisoner** can stack Mole Poison and Sleeping Sponge with the vanilla poisons on one weapon.
 - **Area Hit Vials** can throw both vials; everyone in the splash radius is affected.
 
+Portions:
+wh_cheat_addItem 2cb4b27e-3af2-5f71-9e95-e03879374f44 
+wh_cheat_addItem 3d52f08f-ed9a-532e-88ff-c667879a692c
+
+Recipes:
+wh_cheat_addItem 2b89769a-a06f-5097-8306-c597c944eeb6
+wh_cheat_addItem 540c226c-2dd7-5272-a637-e07727672f79
