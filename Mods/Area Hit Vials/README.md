@@ -2,6 +2,8 @@
 
 **Download:** [AreaHitVials.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/AreaHitVials.zip)
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Area%20Hit%20Vials/workshop_01.jpg" width="600"/></p>
+
 # Throw your potions, poisons and spirits as vials. The vial shatters on impact and **everyone within the radius gets exactly what drinking it would do** - including poisons mixed in with The Poisoner. Nobody notices who threw it.
 
 ## How it works
@@ -38,4 +40,13 @@ mod.cfg in the mod folder (takes effect the next time a save is loaded):
 - Works with The Poisoner (stacked poisons) and with Virtunerd Radial.
 - Menu and throw display in German and English (other game languages show English), item names in every game language.
 
-v1.0.2
+v1.0.3
+
+## Screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Area%20Hit%20Vials/workshop_02.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Area%20Hit%20Vials/workshop_03.gif" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Area%20Hit%20Vials/workshop_04.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Area%20Hit%20Vials/workshop_05.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Area%20Hit%20Vials/workshop_06.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Area%20Hit%20Vials/workshop_07.jpg" width="700"/></p>

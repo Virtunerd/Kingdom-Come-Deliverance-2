@@ -2,6 +2,8 @@
 
 **Download:** [horsedeed_1.0.0.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/horsedeed_1.0.0.zip)
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Horsedeed/workshop_01.png" width="600"/></p>
+
 Buy it from its owner, steal it and make it legally yours on the spot, keep every horse you own in your own stable, and sell the ones you no longer need. No more trips to the black-market horse dealer.
 
 ## Two new options on every horse
@@ -74,6 +76,16 @@ Everything can be changed in mod.cfg in the mod folder:
 - Uses right Shift + F11. F11 on its own stays free for other mods.
 - The stable lives in your save game.
 - Languages: English and German.
+
+## Screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Horsedeed/workshop_02.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Horsedeed/workshop_03.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Horsedeed/workshop_04.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Horsedeed/workshop_05.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Horsedeed/workshop_06.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Horsedeed/workshop_07.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Horsedeed/workshop_08.jpg" width="700"/></p>
 
 ---
 

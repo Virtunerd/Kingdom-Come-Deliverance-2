@@ -2,6 +2,8 @@
 
 **Download:** [survivalist.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/survivalist.zip)
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Survivalist/workshop_01.jpg" width="600"/></p>
+
 Stop buying ammo and forge every arrow and bolt you need yourself.
 
 Survivalist adds blacksmith sketches for **every vanilla arrow and crossbow bolt**, the **Black arrow** included. Buy a sketch, read it and forge the ammo at any anvil. Each forging gives you **10 arrows or bolts**.
@@ -121,6 +123,10 @@ wh_cheat_addItem 17d47256-9eb3-50e4-8cd2-20bbf76292b0
 wh_cheat_addItem f51a810d-1222-5b12-ae0a-0871fca3e375
 wh_cheat_addItem d4b11459-7414-5025-b1ac-2dd22a975c54
 ```
+
+## Screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Survivalist/workshop_02.jpg" width="700"/></p>
 
 ---
 

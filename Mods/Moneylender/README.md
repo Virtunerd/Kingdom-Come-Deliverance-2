@@ -1,5 +1,7 @@
 # Moneylender
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Moneylender/workshop_01.jpg" width="600"/></p>
+
 [Moneylender - Loanshark](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/moneylender.zip): Henry becomes a moneylender. Lend 50 to 10,000 groschen to any NPC with interest and a due date. When the time is up, demand payment, threaten (most debtors pay out of fear) or send your thugs if a debtor cannot pay, you decide whether to grant a delay - after a threat it costs him dearly.
 
 The thugs appear out of sight, beat the debtor unconscious with their fists and leave, without involving the crime system. A beaten debtor pays at once when reminded of them.

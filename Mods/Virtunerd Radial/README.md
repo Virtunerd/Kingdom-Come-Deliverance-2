@@ -2,6 +2,8 @@
 
 **Download:** [VirtunerdRadial.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/VirtunerdRadial.zip)
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Virtunerd%20Radial/workshop_01.jpg" width="600"/></p>
+
 # One radial menu for all your mods. Hold Ctrl, point, release.
 
 Virtunerd Radial is a ring menu that other mods plug into. Each mod adds its own tab, and the arrows at the top of the ring switch between them.

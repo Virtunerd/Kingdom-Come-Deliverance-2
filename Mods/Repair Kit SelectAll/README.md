@@ -2,6 +2,8 @@
 
 **Download:** [RepairKitSelectAll.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/RepairKitSelectAll.zip)
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Repair%20Kit%20SelectAll/workshop_01.jpg" width="600"/></p>
+
 Tired of pressing E for every single item in the repair kit window? This mod adds a **Select all** button to it.
 
 ## Features

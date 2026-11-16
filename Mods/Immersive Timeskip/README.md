@@ -2,6 +2,8 @@
 
 **Download:** [ImmersiveTimeskip.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/ImmersiveTimeskip.zip)
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Immersive%20Timeskip/workshop_01.jpg" width="600"/></p>
+
 # Wait with the time wheel **without the black screen**. Watch the world move on while the hours pass.
 
 ## What it does
@@ -40,6 +42,16 @@ Replaces these files, so it does not work together with other mods that change t
 - Libs/UI/Textures/SkipTime/skip_time_body.dds
 
 The transparent wheel centre applies to every time wheel (sleeping and reading as well).
+
+## Screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Immersive%20Timeskip/workshop_02.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Immersive%20Timeskip/workshop_03.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Immersive%20Timeskip/workshop_04.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Immersive%20Timeskip/workshop_05.gif" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Immersive%20Timeskip/workshop_06.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Immersive%20Timeskip/workshop_07.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Immersive%20Timeskip/workshop_08.jpg" width="700"/></p>
 
 ---
 

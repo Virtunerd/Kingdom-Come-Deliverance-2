@@ -2,8 +2,9 @@
 
 **Download:** [Shouts.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Shouts.zip)
 
-# The vanilla battle cry finally does something. Use it on frightened witnesses and they give up, use it in a brawl and your enemies turn on each other.
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shouts/workshop_01.jpg" width="600"/></p>
 
+# The vanilla battle cry finally does something. Use it on frightened witnesses and they give up, use it in a brawl and your enemies turn on each other.
 
 ## Witnesses
 - Witnesses who saw Henry commit a crime and now run off to report him, go to fetch help against him or flee from him react to the battle cry.
@@ -40,3 +41,10 @@ Edit **mod.cfg** in the mod folder. Changes take effect the next time a save is 
 - **1.0.2:** Cowering women can be released with the vanilla quick chat. The battle cry is no longer available after a fight unless a witness is nearby. No more area scans during combat.
 - **1.0.1:** Female witnesses cower in fear instead of fainting.
 - **1.0.0:** Initial release.
+
+## Screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shouts/workshop_02.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shouts/workshop_03.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shouts/workshop_04.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shouts/workshop_05.jpg" width="700"/></p>

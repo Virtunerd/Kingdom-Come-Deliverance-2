@@ -2,6 +2,8 @@
 
 **Download:** [shackles.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/shackles.zip)
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shackles/workshop_01.jpg" width="600"/></p>
+
 # Put rusty shackles on NPCs and keep them as prisoners. They sit down on the ground in the vanilla tied-up pose, drop their daily routine and stay where they are, even after saving and loading.
 
 Dev. in combination with my offering mod, so npcs could eat/drink and sit down again.
@@ -56,6 +58,14 @@ Console:
 ```
 wh_cheat_addItem cd61edb8-2674-4c3f-aa3b-c5067e6e2052
 ```
+
+## Screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shackles/workshop_02.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shackles/workshop_03.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shackles/workshop_04.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shackles/workshop_05.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shackles/workshop_06.jpg" width="700"/></p>
 
 ---
 

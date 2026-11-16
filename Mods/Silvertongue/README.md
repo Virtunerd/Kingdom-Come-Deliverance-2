@@ -1,5 +1,7 @@
 # Silvertongue
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Silvertongue/workshop_01.jpg" width="600"/></p>
+
 [Silvertongue - Heartbroken to death](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Silvertongue.zip)
 
 **Anyone can kill with a sword, a bow or poison. You only need one sentence.**

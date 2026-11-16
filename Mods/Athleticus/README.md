@@ -2,6 +2,8 @@
 
 **Download:** [athleticus.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/athleticus.zip)
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Athleticus/workshop_01.jpg" width="600"/></p>
+
 Henry gets a double jump and pulls himself up onto high ledges.
 
 Press jump again in mid-air for a second jump. In the air, Henry grabs edges in front of him that are too high for the game's own vaults (rocks, walls, roofs) and climbs onto them, automatically when he faces the edge or with the jump key.
@@ -28,6 +30,10 @@ Settings in mod.cfg.
 #AthleticusCfg.GrabReach = 0.9         -- m, how far in front of Henry the wall may be
 #AthleticusCfg.ClimbSpeed = 1.0        -- speed of the pull-up (0.25 - 4)
 ```
+
+## Screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Athleticus/workshop_02.jpg" width="700"/></p>
 
 ---
 

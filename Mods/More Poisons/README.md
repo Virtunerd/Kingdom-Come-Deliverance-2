@@ -4,7 +4,6 @@
 
 <p align="left"><img src="https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/blob/main//Mods/More%20Poisons/more_poisons.jpg"/></p>
 
-
 Two new poisons for Henry's alchemy: **Mole Poison** blinds, **Sleeping Sponge** knocks out. Brew them at the alchemy table, mix them into food or drink, or coat any weapon or your arrows.
 
 ---
@@ -68,3 +67,8 @@ wh_cheat_addItem 3d52f08f-ed9a-532e-88ff-c667879a692c
 Recipes:
 wh_cheat_addItem 2b89769a-a06f-5097-8306-c597c944eeb6
 wh_cheat_addItem 540c226c-2dd7-5272-a637-e07727672f79
+
+## Screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/More%20Poisons/workshop_01.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/More%20Poisons/workshop_02.jpg" width="700"/></p>

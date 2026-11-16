@@ -2,6 +2,8 @@
 
 **Download:** [ThePoisoner.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/ThePoisoner.zip)
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/The%20Poisoner/workshop_01.jpg" width="600"/></p>
+
 # Why settle for one poison when you can use three?
 
 In vanilla, every item carries only a single poison - applying a second one simply replaces the first. **The Poisoner** lets you stack up to **three poisons on one item**, one of each kind:
@@ -48,6 +50,15 @@ Replaces the UI files ApseInventoryList, ItemTransfer, ItemSelection, ApseInvent
 
 ## Uninstall
 Grind multi-poisoned weapons and use up multi-poisoned food or potions first, then remove both parts of the mod.
+
+## Screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/The%20Poisoner/workshop_02.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/The%20Poisoner/workshop_03.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/The%20Poisoner/workshop_04.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/The%20Poisoner/workshop_05.png" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/The%20Poisoner/workshop_06.png" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/The%20Poisoner/workshop_07.gif" width="700"/></p>
 
 ---
 

@@ -2,6 +2,8 @@
 
 **Download:** [Carrying_Body_Throw_Weapondraw.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Carrying_Body_Throw_Weapondraw.zip)
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Carrying%20Body%20Throw%20Weapondraw/workshop_01.jpg" width="600"/></p>
+
 # Reflex Throw
 
 Carrying a body and suddenly need your hands free? Henry no longer has to kneel down and gently lay it on the ground. The body leaves his shoulder at once - thrown far, or simply dropped when you go for your weapon.
@@ -34,6 +36,10 @@ Carrying a body and suddenly need your hands free? Henry no longer has to kneel 
 
 ## Languages
 English, German
+
+## Screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Carrying%20Body%20Throw%20Weapondraw/workshop_02.gif" width="700"/></p>
 
 ---
 

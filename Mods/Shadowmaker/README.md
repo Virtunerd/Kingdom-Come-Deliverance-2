@@ -2,6 +2,8 @@
 
 **Download:** [Shadowmaker.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/Shadowmaker.zip)
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shadowmaker/workshop_01.gif" width="600"/></p>
+
 # Put out the lights and make your own shadows. Candles, lamps, chandeliers, wall torches, hearth fires, and the torches and lanterns other people carry
 
 ## How to put a light out
@@ -52,6 +54,13 @@ Open *mod.cfg* in the mod folder. Changes take effect the next time a save is lo
 - Replaces one vanilla AI file, the player's arrow-hit handler (*AI/player/switch/handleArrowHitData.xml*), by adding a single call to the mod. Everything the file did before stays.
 - A mod that replaces the same file conflicts with this one; whichever loads later wins. If the other mod wins, carried torches can still be shot out by a near miss, just not by hitting the hand that holds them.
 - Other mods that listen to hits keep working.
+
+## Screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shadowmaker/workshop_02.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shadowmaker/workshop_03.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shadowmaker/workshop_04.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shadowmaker/workshop_05.jpg" width="700"/></p>
 
 ---
 

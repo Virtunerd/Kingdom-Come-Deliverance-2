@@ -2,6 +2,8 @@
 
 **Download:** [IronLiver.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/IronLiver.zip)
 
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Iron%20Liver/workshop_01.jpg" width="600"/></p>
+
 Henry can drink as much as he likes. Drunkenness stops right before the negative phase: he keeps the full positive effect (Speech, Strength, Agility and Charisma up to +4), but never gets really drunk, never blacks out and gets no hangover afterwards.
 
 **Quest scenes that force drunkenness stay vanilla.**
@@ -26,6 +28,11 @@ Enabled=1      1 = mod active, 0 = vanilla
 CapRatio=0.999 cap as a fraction of the point where the negative phase starts (0.05 - 0.999)
 NoHangover=1   1 = no hangover, 0 = vanilla hangover rules
 ```
+
+## Screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Iron%20Liver/workshop_02.jpg" width="700"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Iron%20Liver/workshop_03.jpg" width="700"/></p>
 
 ---
 
