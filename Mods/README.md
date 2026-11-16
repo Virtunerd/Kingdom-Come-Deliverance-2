@@ -24,6 +24,7 @@
 - [Last Known Position](Last%20Known%20Position/)
 - [Lockbreaker](Lockbreaker/)
 - [Moneylender](Moneylender/)
+- [More Poisons](More%20Poisons/)
 - [Offering](Offering/)
 - [Photomode Noclip](Photomode%20Noclip/)
 - [Reaper](Reaper/)

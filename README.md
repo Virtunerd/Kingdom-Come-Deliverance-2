@@ -5,6 +5,9 @@
 For social-proof you can check my banned profile on nexusmods. All mods except my reaper are at the steam workshop as well.  
 - [@Nexusmods: My banned (because of the reaper mod) profile](https://www.nexusmods.com/profile/Virtunerd)
 
+<p align="left"><img src="https://staticdelivery.nexusmods.com/mods/10076/images/headers/1_1788362048.jpg"/></p>
+
+--- 
 
 <p align="left"><img src="https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/blob/main//Assets/steam/steam.png" width="80" height="80"/></p> 
 
@@ -36,6 +39,7 @@ For social-proof you can check my banned profile on nexusmods. All mods except m
 - [Last Known Position](Mods/Last%20Known%20Position/)
 - [Lockbreaker](Mods/Lockbreaker/)
 - [Moneylender](Mods/Moneylender/)
+- [More Poisons](Mods/More%20Poisons/)
 - [Offering](Mods/Offering/)
 - [Photomode Noclip](Mods/Photomode%20Noclip/)
 - [Reaper](Mods/Reaper/)
