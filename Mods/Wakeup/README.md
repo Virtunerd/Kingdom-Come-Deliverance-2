@@ -1,3 +1,7 @@
 # Wakeup
 
-[Wake Up](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wakeup.zip/): Keybind "H" wakes an unconscious human NPC within reach. (Wakes up ko´d NPCs) Hooks the inter
+[Wake Up](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/wakeup.zip/): Keybind "H" wakes an unconscious human NPC within reach. (Wakes up ko´d NPCs) Hooks the interaction list at runtime instead of replacing a vanilla script, so it works alongside [Reaper](../Reaper/) and other mods. Reaper is an exclusive mod on my github page.
+
+---
+
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3828256268)

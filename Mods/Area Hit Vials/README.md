@@ -18,9 +18,8 @@
 The arrows at the top of the ring switch between tabs. Other mods can add their own tabs to the same ring. If **Virtunerd Radial** (separate mod) is installed, Area Hit Vials uses that ring and only adds its Vials tab; without it, the built-in ring is used. No mod depends on the other.
 
 ## Install
-[olist]
-[*]Copy **AreaHitVials.asi** from the mod folder into *Bin\Win64MasterMasterSteamPGO*. **It needs an ASI loader there.** Without it, potions splash without the poisons inside them; everything else works.
-[/olist]
+
+1. Copy **AreaHitVials.asi** from the mod folder into *Bin\Win64MasterMasterSteamPGO*. **It needs an ASI loader there.** Without it, potions splash without the poisons inside them; everything else works.
 
 ## Settings
 mod.cfg in the mod folder (takes effect the next time a save is loaded):

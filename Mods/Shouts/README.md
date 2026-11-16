@@ -31,6 +31,7 @@ Edit **mod.cfg** in the mod folder. Changes take effect the next time a save is 
 - Conflicts with any other mod that replaces one of these files.
 
 ## Changelog 
+- **1.0.6:** Added a custom internal hub of the switch.xml called vswitch
 - **1.0.5:** The foe you are locked on keeps attacking you while the turncoats go for him.
 - **1.0.4:** Turncoats attack right away without the costly vanilla reconciliation, which caused a heavy frame drop.
 - **1.0.3:** Only witnesses who want to report Henry count. Reports without a known culprit, such as a body found, no longer unlock the battle cry.
