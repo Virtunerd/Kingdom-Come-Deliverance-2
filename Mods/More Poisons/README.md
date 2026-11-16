@@ -1,5 +1,7 @@
 # More Poisons
 
+<p align="left"><img src="https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/blob/main//Mods/More%20Poisons/more_poisons.jpg"/></p>
+
 
 Two new poisons for Henry's alchemy: **Mole Poison** blinds, **Sleeping Sponge** knocks out. Brew them at the alchemy table, mix them into food or drink, or coat any weapon or your arrows.
 
@@ -37,6 +39,10 @@ Buy both recipes from the **alchemists in Kuttenberg and Troskowitz**. Read them
 3. Grind 1 henbane and add it.
 4. Boil for 1 turn using the bellows.
 5. Distil.
+
+<p align="left"><img src="https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/blob/main//Mods/More%20Poisons/cover.jpg"/></p>
+
+--- 
 
 ## Details
 
