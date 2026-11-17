@@ -2,6 +2,10 @@
 
 **Download:** [shackles.zip](https://github.com/Virtunerd/Kingdom-Come-Deliverance-2/releases/download/kcd2/shackles.zip)
 
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3834194095)
+
+--- 
+
 <p align="center"><img src="https://raw.githubusercontent.com/Virtunerd/Kingdom-Come-Deliverance-2/refs/heads/main/Mods/Shackles/workshop_01.jpg" width="600"/></p>
 
 # Put rusty shackles on NPCs and keep them as prisoners. They sit down on the ground in the vanilla tied-up pose, drop their daily routine and stay where they are, even after saving and loading.
@@ -69,4 +73,4 @@ wh_cheat_addItem cd61edb8-2674-4c3f-aa3b-c5067e6e2052
 
 ---
 
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3834194095)
+
