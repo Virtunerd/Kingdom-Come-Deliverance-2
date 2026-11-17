@@ -1,5 +1,7 @@
 # Captive Camp
 
+**[Screenshots here](images/)**
+
 **A mod for Kingdom Come: Deliverance II by Virtunerd, version 1.0.0**
 
 Run your own prison camp in medieval Bohemia. Pitch a ring of palisades anywhere in the open, take captives, break them at the pillory, put them to work and sell them to the buyers who come to your auction stage. When you move on, pack the camp up and pitch it again somewhere else.
