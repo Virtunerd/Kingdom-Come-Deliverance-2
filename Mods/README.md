@@ -24,6 +24,7 @@ You have my permission to use them in KCD2 with any mod loader or by installing 
 - [Bone Broker](Bone%20Broker/)
 - [Bulk Forge](Bulk%20Forge/)
 - [Carrying Body Throw Weapondraw](Carrying%20Body%20Throw%20Weapondraw/)
+- [Captive Camp - A Slavery Mod](Captive%20Camp/)
 - [Door Jammer](Door%20Jammer/)
 - [Faces](Faces/)
 - [Fingers](Fingers/)

@@ -22,6 +22,7 @@ For social-proof you can check my banned profile on nexusmods. All mods except m
 - [Bone Broker](Mods/Bone%20Broker/)
 - [Bulk Forge](Mods/Bulk%20Forge/)
 - [Carrying Body Throw Weapondraw](Mods/Carrying%20Body%20Throw%20Weapondraw/)
+- [Captive Camp - A Slavery Mod - Catch Break Sell NPCs](Mods/Captive%20Camp/)
 - [Door Jammer](Mods/Door%20Jammer/)
 - [Faces](Mods/Faces/)
 - [Fingers](Mods/Fingers/)
