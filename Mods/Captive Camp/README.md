@@ -178,3 +178,32 @@ Captivity, forced labour, a slave auction and executions, told in the setting of
 ---
 
 Made by **Virtunerd**.
+
+## Captive Camp 1.0.1
+
+### New
+- **Stone wall** (camp steward, 1500 groschen): the Kuttenberg town wall replaces the palisade ring and the fences of all upgrades. The main gate becomes an open stone arch, the gates of the upgrades stay wooden. Upgrades you buy later are built in stone right away.
+- **Guards' clothing** (camp steward): six looks with a different variant for every guard, a surcoat in one of eight colours, and a colour for every piece of clothing and armour (arms, legs, hoods and more). A guard models it by the palisade before you apply it.
+- **Clothing of the camp staff**: "About your clothes." in the dialogue of the steward, scribe, coachman, foreman, pit guard, the two mess guards and the arena warden. Pick a colour for each piece they wear.
+- **Fighting ring**: new option "The loser goes to the gallows." Executions with the crossbow or the sword. The warden's dialogue stays open while you change his settings, he stays at his post while something is going on, and fights and executions follow each other faster.
+- **Work camp**: working hours at the foreman (day, short day, night, day and night). The work camp now produces goods for every shift, at night too.
+- **Punishments** at the overseer: work through the coming night, or dig in the pit (men from the pen too). Talk to the captive to end a punishment: "Your punishment is over."
+- **Gate guards**: order them to attack every Cuman, town soldiers, only watchmen, or anyone on horseback.
+- **Supply runs**: choose men, women or both, and send them with "... and come straight back" to skip the waiting time.
+- **Decoy**: tell a man or a woman of the open world "A camp nearby needs your help." and they make their own way to your pen.
+- **Bath maid at the bed**: hold E at Henry's bed to call her. An hour passes with sound (played twice, with a 4 second pause), she has a word for you afterwards, and you get "Time well spent".
+- **Pit guard**: can carry a crossbow instead of the sword (dialogue).
+- **Radial menu**: "Release all" takes everyone out of the pillories and the cage.
+
+### Fixes and changes
+- Henry's house is dark inside: it gets the interior light probe of the vanilla house, and the roof casts its shadow again.
+- Close the window during an auction and it runs through all lots on its own, the highest bidder wins.
+- The gallows keep up to three bodies, and "The loser goes to the gallows" survives loading a save.
+- Executions no longer get stuck in the ring.
+- The arena warden no longer walks into the palisade by the coachman's bed, and the staff walk their paths more smoothly.
+- The cage door in Henry's area closes when the captive sits inside.
+- Captives working in the pit appear in the shovel list, and the pit worker digs at the right spot.
+- The cage wagon comes back with its soldiers, and its horses stay in front of it after the return.
+- The bath maid can no longer be put into the work camp.
+- The shovel window shows the bath maid in Henry's area.
+- No more "VSwitch run" lines in the game log.
